@@ -1,4 +1,3 @@
 # Build and Deploy my portfolio.
-
-![3D Website](https://i.ibb.co/ryytGVx/Screenshot-2023-11-25-at-11-28-11-AM.png)
+Tech stack : React, Tailwind CSS, React Router, R3F.
 
