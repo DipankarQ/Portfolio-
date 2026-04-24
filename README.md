@@ -3,6 +3,9 @@
 Interactive portfolio website built with React, Three.js, and Vite.  
 It showcases Dipankar's profile, skills, projects, and contact form with a 3D-first user experience.
 
+<img width="1361" height="606" alt="Screenshot 2026-04-24 140807" src="https://github.com/user-attachments/assets/637fc2f7-1a73-4b42-a466-b3897931db74" />
+
+
 ## Project Information
 
 - **Name:** `3d-portfolio`
