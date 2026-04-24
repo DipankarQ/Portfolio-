@@ -1,4 +1,3 @@
-//import { meta, shopify, starbucks, tesla } from "../assets/images";
 import {
     figma,
     contact,
@@ -11,7 +10,6 @@ import {
     linkedin,
     
     mui,
-   
     
     react,
     netlify,
@@ -110,18 +108,16 @@ export const socialLinks = [
 export const projects = [
 
     {
-        name:'Sundown Studio',
-        description:'Creative design and production management for retail environments, pop-ups, and brand activations across major US markets.',
-        link: 'https://dainty-stardust-81631a.netlify.app/'
+        name:'FinTech Tracker — Finance Dashboard ',
+        description:'A responsive personal finance dashboard built with React + Vite + Tailwind CSS. It includes a protected login screen, dark/light theme, and tabbed views for dashboard metrics, transactions, and insights.',
+        link: 'https://bejewelled-chimera-031260.netlify.app/'
     },
     {
-        name:'Lazarev',
-        description:'Full-service design agency delivering brand identity, user experience, and product design solutions for AI-driven businesses from Series A to D.',
-        link: 'https://gorgeous-vacherin-f3f39b.netlify.app/'
+        name:'Medical Dashboard',
+        description:'A modern React-based medical dashboard application for displaying and monitoring patient health information. The dashboard provides a comprehensive view of patient demographics, vital signs, diagnosis history, diagnostic test results, and lab work.',
+        link: 'https://medicaldashboar.netlify.app/'
     },
-    {
-        name:'Global Trend',
-        description:'Digital marketing solutions platform empowering businesses to lead industry change and capitalize on global trends.',
-        link: 'https://global-vi.netlify.app/'
-    }
+    
 ];
+
+
