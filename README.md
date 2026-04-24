@@ -57,42 +57,6 @@ Dipankar_portfolio/
 
 ## Getting Started
 
-### Prerequisites
-
-- Node.js 16+ (recommended: latest LTS)
-- npm
-
-### Installation
-
-```bash
-npm install
-```
-
-### Run Development Server
-
-```bash
-npm run dev
-```
-
-Default local URL: `http://localhost:5173`
-
-### Build for Production
-
-```bash
-npm run build
-```
-
-### Preview Production Build
-
-```bash
-npm run preview
-```
-
-### Lint
-
-```bash
-npm run lint
-```
 
 ## Environment Variables
 
